@@ -1,2 +1,2 @@
-FROM ghcr.io/libretranslate/libretranslate:latest
+FROM libretranslate/libretranslate:latest
 EXPOSE 5000
