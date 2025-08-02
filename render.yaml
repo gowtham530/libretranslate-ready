@@ -6,3 +6,6 @@ services:
     branch: main
     dockerContext: .
     dockerfilePath: Dockerfile
+    ports:
+      - port: 5000
+        protocol: http
